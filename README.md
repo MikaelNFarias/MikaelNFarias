@@ -2,7 +2,7 @@
 
 - :boy: Hello, my name is Mikael Farias. I am currently focused on Web Development (FullStack);
 - :books: I am currently a graduate in Automation Engineering;
-- :desktop_computer: I'm learning ReactJS, Typescript, NextJS, among other technologies. I have experience with C++, Python, CSS and HTML;
+- :desktop_computer: I'm learning ReactJS, Typescript, NextJS, Flutter, among other technologies. I have experience with C++, Python, CSS and HTML;
 - ⚡ Fun fact: I play basketball and I'm a poet.
 
 ## Projects

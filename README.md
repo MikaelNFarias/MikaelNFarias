@@ -1,4 +1,6 @@
+## Total Visits: <p align="center"><img src="https://profile-counter.glitch.me/{MikaelNFarias}/count.svg" alt="MikaelNFarias :: Visitor's Count" /></p>
 # Overview
+
 
 ## About me
 
@@ -33,3 +35,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
 </div>
+
+# Profile stats:
+
+<div style="display: flex;">
+  <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelNFarias&langs_count=10&theme=synthwave&layout=compact" alt="MikaelNFarias:: Top Langs" /></p>
+  <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=MikaelNFarias&show_icons=true&theme=synthwave" alt="MikaelNFarias:: Profile Stats" /></p>
+  <p style="display: inline-block;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikaelNFarias&theme=synthwave" alt="MikaelNFarias:: Profile Stats" /></p>
+</div>  
+

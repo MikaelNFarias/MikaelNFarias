@@ -4,19 +4,21 @@
 
 ## About me
 
-- :boy: Hello, my name is Mikael Farias. I am currently focused on Web Development (FullStack);
-- :books: I am currently a graduate in Automation Engineering;
-- :desktop_computer: I'm learning ReactJS, Typescript, NextJS, Flutter, among other technologies. I have experience with C++, Python, CSS and HTML;
-- ⚡ Fun fact: I play basketball and I'm a poet.
+- :boy: Hi, my name is Mikael Farias. I'm a **Fullstack Web Developer** and **Co-Founder at TriCode**, a company focused on custom-made tech solutions;
+- :books: Undergraduate student in Automation Engineering;
+- :desktop_computer: I currently work with **ReactJS, TypeScript, Next.js, Flutter**, among other technologies. I also have experience with **C++, Python, HTML, and CSS**;
+- ⚡ Fun fact: I play basketball and write poetry in my free time.
 
 ## Projects
-- :man_office_worker: I have been working as an intern in web systems development (Fullstack) since November 2023;
+- :man_office_worker: I'm one of the founders and developers at TriCode, where we deliver custom software solutions;
 - :robot: I am captain of the [FBOT@Work](https://github.com/FBOTWork) category of the FurgBOT robotics team. I am learning about YOLO to develop computer vision activities, in addition to using ROS to exchange data between different nodes of a robotic system;
 - :computer: I have also been working since May 2024, with a development team at [iTec Furg](https://itecfurg.org/) on the project of an application that uses computer vision to help women during menopause, [Raquel Menopausa](https://www.raquelmenopausa.com/).
 
 ## Contact
 - :mailbox: You can contact me via email: **mikael.n.farias@gmail.com**;
 - :iphone: Or contact me via Whatsapp: **(53) 98419-5694**;
+
+
 
 
 <div style="display=inline-block">

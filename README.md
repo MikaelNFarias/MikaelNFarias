@@ -1,4 +1,4 @@
-## Total Visits: <p align="center"><img src="https://profile-counter.glitch.me/{MikaelNFarias}/count.svg" alt="MikaelNFarias :: Visitor's Count" /></p>
+
 # Overview
 
 
